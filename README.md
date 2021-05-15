@@ -1,2 +1,2 @@
 # EletricLock8051
-The source C code of a Eletric microcontroled Lock with a matrix keypad input, and a 7-segments display
+Codigo fonte em C de um cadeado eletrônico microcontrolado, usando uma senha numerica atraves de um teclado matricial e um display de 7-Segmentos.
